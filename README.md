@@ -2,7 +2,7 @@
 
 A group expense splitter. Create a group, add friends, log shared expenses, and SplitMate tells everyone exactly who owes whom, using the fewest possible payments.
 
-**Live app:** `<add your deployed URL here>`
+**Live app:** https://splitmate-lty0.onrender.com
 **Demo video:** `<add your demo video link here>`
 
 ## Problem Statement
